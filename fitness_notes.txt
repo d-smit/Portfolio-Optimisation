@@ -1,0 +1,11 @@
+  f =  ((weight) * (f1)) + ((1-weight) * (1-f2))      # Normalise return and risk using results from running single objective
+
+			gets big			gets small 
+			
+weight = 0.1
+
+f1 = 0.05
+f2 = 0.005
+
+
+	f = 0.005 + 0.9 * 0.995
